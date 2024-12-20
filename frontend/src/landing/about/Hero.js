@@ -50,3 +50,10 @@ function Hero() {
             the latest updates on our blog or see what the media is saying about
             us.
           </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Hero;  
